@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @K0D3RK1D
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning C++!
+- 👀 I’m interested in making a game
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me: email d4shg3ometry@outlook.com
-- 😄 Pronouns: he/him (what do ya expect? im a guy!
-- ⚡ Fun fact: I'm an absolute noob
+- 📫 How to reach me: no thx
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like coding1111!!!!!111!!11111!!!!1 (who could have guessed)
 
 <!---
 K0D3RK1D/K0D3RK1D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
